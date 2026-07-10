@@ -1,11 +1,21 @@
 id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
-1,Sunrise City,Neon Echo,pop,happy,0.82,118,0.84,0.79,0.18
-2,Midnight Coding,LoRoom,lofi,chill,0.42,78,0.56,0.62,0.71
-3,Storm Runner,Voltline,rock,intense,0.91,152,0.48,0.66,0.10
-4,Library Rain,Paper Lanterns,lofi,chill,0.35,72,0.60,0.58,0.86
-5,Gym Hero,Max Pulse,pop,intense,0.93,132,0.77,0.88,0.05
-6,Spacewalk Thoughts,Orbit Bloom,ambient,chill,0.28,60,0.65,0.41,0.92
-7,Coffee Shop Stories,Slow Stereo,jazz,relaxed,0.37,90,0.71,0.54,0.89
-8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
-9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
-10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+1,Home Is Where the Hatred Is,Gil Scott-Heron,soul,moody,0.40,85,0.35,0.48,0.65
+2,Seria Un Placer,Neto Pena,norteno,happy,0.72,130,0.85,0.82,0.35
+3,Sitting on the Dock of the Bay,Otis Redding,soul,relaxed,0.32,104,0.68,0.45,0.80
+4,My Way,Calvin Harris,edm,intense,0.90,128,0.75,0.88,0.05
+5,That's Life,Frank Sinatra,jazz,happy,0.55,120,0.82,0.65,0.60
+6,There Is Something on Your Mind,Big Jay McNeely,r&b,moody,0.48,95,0.55,0.58,0.72
+7,Full Clip,Gang Starr,hip-hop,intense,0.78,92,0.55,0.80,0.12
+8,Who Detached Us,Nipsey Hussle ft. Steve Jobs,hip-hop,moody,0.50,85,0.48,0.62,0.30
+9,To Live and Die in LA,Tupac,hip-hop,intense,0.80,95,0.58,0.78,0.10
+10,Marlboro Rojo,Fuerza Regida,banda,happy,0.78,138,0.82,0.88,0.20
+11,Man of the Year,Schoolboy Q,hip-hop,intense,0.85,95,0.60,0.82,0.08
+12,On The Road Again,Willie Nelson,country,relaxed,0.30,95,0.82,0.48,0.93
+13,A Change Is Gonna Come,Sam Cooke,soul,moody,0.38,72,0.62,0.45,0.78
+14,Mi Ultimo Deseo,Banda Los Recoditos,banda,happy,0.75,135,0.80,0.85,0.30
+15,Father Stretch My Hands Pt. 1,Kanye West,gospel hip-hop,intense,0.78,138,0.70,0.80,0.12
+16,The Days (Notion Remix),Chrystal ft. Notion,edm,intense,0.88,128,0.75,0.85,0.10
+17,Too Much,Drake and Sampha,r&b,moody,0.48,85,0.58,0.60,0.42
+18,Aguanta Corazon,Los Invasores de Nuevo Leon,norteno,relaxed,0.40,110,0.75,0.70,0.65
+19,I Do This,Nipsey Hussle ft. Young Thug and Mozzy,hip-hop,intense,0.82,88,0.65,0.78,0.08
+20,His and Her Friends,Schoolboy Q and SZA,r&b,chill,0.52,90,0.72,0.68,0.45
